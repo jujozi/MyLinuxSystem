@@ -1,4 +1,4 @@
-# MyLinuxSystem
+# MyLinuxDesktop
 
 Install Chrome
 ```bash
