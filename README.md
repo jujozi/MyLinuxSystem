@@ -12,3 +12,5 @@ curl https://updates.signal.org/desktop/apt/keys.asc | sudo -H gpg --dearmor -o 
 echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/signal-desktop-archive.gpg] https://updates.signal.org/desktop/apt xenial main" | sudo tee /etc/apt/sources.list.d/signal-desktop-xenial.list
 sudo apt update && sudo apt install signal-desktop
 ```
+
+https://looking-glass.io/
