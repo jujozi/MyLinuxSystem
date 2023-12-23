@@ -1,15 +1,13 @@
 # Server Knowlage Pool
 
 ## Virtualisation
+###Proxmox
+[Proxmox BS](https://www.proxmox.com/en/proxmox-backup-server/overview) Space efficient backup server for vms
 
-Proxmox
-[Proxmox BS](https://www.proxmox.com/en/proxmox-backup-server/overview)
-[Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
-[Proxmox VE API](https://pve.proxmox.com/wiki/Proxmox_VE_API)
+[Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview) Hypervisor with [Proxmox VE API](https://pve.proxmox.com/wiki/Proxmox_VE_API)
 
-Ceph
-
-Ceph is a free and open-source software-defined storage platform that provides object storage, block storage, and file storage built on a common distributed cluster foundation.
+Feature:
+Ceph (ha distributed storage)
 
 ## Services
 
@@ -17,7 +15,10 @@ Docker
 Home Assistant
 
 File Server
-Network boot
+### Network boot
+https://fogproject.org/
+https://netboot.xyz/docs/docker
+https://www.linuxserver.io/blog/2019-12-16-netboot-xyz-docker-network-boot-server-pxe
 Clound
 GitLab
 pihole
