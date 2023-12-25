@@ -30,6 +30,7 @@ TureNas
 ## Gaiming
 [LanCash](https://lancache.net/)
 LinuxGSM
+https://pterodactyl.io/
 
 
 ## AI
