@@ -13,6 +13,7 @@ Ceph (ha distributed storage)
 
 Docker
 Home Assistant
+Redmine
 
 File Server
 ### Network boot
@@ -26,6 +27,7 @@ pihole
 ## Storage
 UnRaid
 TureNas
+Seafile
 
 ## Gaiming
 [LanCash](https://lancache.net/)
