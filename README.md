@@ -14,3 +14,17 @@ sudo apt update && sudo apt install signal-desktop
 ```
 
 https://looking-glass.io/
+
+#Science
+
+##Zotero
+Find the extensions.zotero.findPDFs.resolvers , right click and select Modify 
+{
+    "name":"Sci-Hub",
+    "method":"GET",
+    "url":"https://sci-hub.se/{doi}",
+    "mode":"html",
+    "selector":"#pdf",
+    "attribute":"src",
+    "automatic":true
+}
